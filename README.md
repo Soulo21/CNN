@@ -9,7 +9,7 @@ The CNN is composed of the following layers:
 
 Convolutional layers with ReLU activation - 3 convolution layer
 
-MaxPooling layers
+MaxPooling layers 
 
 Dropout layers to reduce overfitting
 
